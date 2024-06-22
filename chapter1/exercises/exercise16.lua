@@ -1,0 +1,3 @@
+-- How can you check whether a value is a 
+-- Boolean without using the function type?
+-- > using not not x
